@@ -1,7 +1,4 @@
-## Hello, my name is Eduardo Guimarães!
-- 💻 I am not currently working, but I'm looking for internships.
-- 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
-- 🌴 Mato Grosso do Sul, Brazil
+# Hello, my name is Eduardo Guimarães!
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=guimaraesdeol&show_icons=true&theme=highcontrast"
@@ -14,6 +11,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+### About Me:
+
+- 💻 I am not currently working, but I'm looking for internships.
+- 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
+- 🌎 Campo grande MS, Brazil
+- 💻 Specs:
+  - B450M Asus
+  - Ryzen 5 5600G
+  - 32GB (2x16) RAM 3200
+  - Radeon RX6600 8GB
+- 🧠 Misc:
+  - 🎸 Electric Guitarist since 2013
+  - 🌑 Programmer on Multi Theft Auto and Roblox just for fun. (LUA Language)
+  - 🎮 Counter Strike, Valorant, GTA V, MTA, Minecraft, ETS 2, Asseto Corsa, Forza Horizon (1º-5º Gen), etc.
+- 👅 Languages:
+  - 🐍 Python
+  - 🌙 Lua
+- 🧑‍🎓 Learning:
+  - HTML, CSS, Javascript, C#, Mysql, Figma
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
