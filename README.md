@@ -13,6 +13,7 @@
 
 ### About Me:
 
+- 17 yo.
 - 💻 I am not currently working, but I'm looking for internships.
 - 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
 - 🌎 Campo grande MS, Brazil
