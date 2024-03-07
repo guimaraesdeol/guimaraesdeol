@@ -23,7 +23,7 @@
   - 32GB (2x16) RAM 3200
   - Radeon RX6600 8GB
 - 🧠 Misc:
-  - 🎸 Electric Guitarist since 2013
+  - 🎸 Electric Guitarist since 2014
   - 🌑 Programmer on Multi Theft Auto and Roblox just for fun. (LUA Language)
   - 🎮 Counter Strike, Valorant, GTA V, MTA, Minecraft, ETS 2, Asseto Corsa, Forza Horizon (1º-5º Gen), etc.
 - 👅 Languages:
