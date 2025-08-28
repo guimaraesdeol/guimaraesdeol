@@ -16,10 +16,9 @@
 
 ### About Me:
 
-- 18 yo.
+- 19 yo.
 - 💻 I am not currently working, but I'm looking for internships.
 - 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
-- 🌎 Campo grande MS, Brazil
 - 💻 Specs:
   - B450M Asus
   - Ryzen 5 5600G
@@ -28,12 +27,12 @@
 - 🧠 Misc:
   - 🎸 Electric Guitarist since 2014
   - 🌑 Programmer on Multi Theft Auto and Roblox just for fun. (LUA Language)
-  - 🎮 Counter Strike, Valorant, GTA V, MTA, Minecraft, ETS 2, Asseto Corsa, Forza Horizon (1º-5º Gen), etc.
 - 👅 Languages:
   - 🐍 Python
+  - 🌑 C/C++
   - 🌙 Lua
 - 🧑‍🎓 Learning:
-  - HTML, CSS, Javascript, C++, Mysql, Figma, SQL
+  - HTML, CSS, Javascript, SQL
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
