@@ -19,20 +19,12 @@
 - 19 yo.
 - 💻 I am not currently working, but I'm looking for internships.
 - 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
-- 💻 Specs:
-  - B450M Asus
-  - Ryzen 5 5600G
-  - 32GB (2x16) RAM 3200
-  - Radeon RX6600 8GB
 - 🧠 Misc:
   - 🎸 Electric Guitarist since 2014
-  - 🌑 Programmer on Multi Theft Auto and Roblox just for fun. (LUA Language)
+  - 🌑 Programmer on Multi Theft Auto
 - 👅 Languages:
   - 🐍 Python
   - 🌑 C/C++
-  - 🌙 Lua
-- 🧑‍🎓 Learning:
-  - HTML, CSS, Javascript, SQL
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
