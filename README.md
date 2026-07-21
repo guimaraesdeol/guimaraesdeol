@@ -19,12 +19,7 @@
 - 19 yo.
 - 💻 I am not currently working, but I'm looking for internships.
 - 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
-- 🧠 Misc:
-  - 🎸 Electric Guitarist since 2014
-  - 🌑 Programmer on Multi Theft Auto
-- 👅 Languages:
-  - 🐍 Python
-  - 🌑 C/C++
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
