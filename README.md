@@ -16,8 +16,7 @@
 
 ### About Me:
 
-- 19 yo.
-- 💻 I am not currently working, but I'm looking for internships.
+- 20 yo.
 - 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
 
  
